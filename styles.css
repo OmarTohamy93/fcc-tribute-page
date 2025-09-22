@@ -84,6 +84,7 @@ body {
     flex-direction: column;
     text-wrap: wrap;
     gap: 10px;
+    border-radius:10px;
 }
 
 .info-container h2 {
@@ -100,4 +101,5 @@ body {
     color: var(--color-writing);
     font-weight: bolder;
     text-shadow: 2px 2px 3px black;
+
 }
